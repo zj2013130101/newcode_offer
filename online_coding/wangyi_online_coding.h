@@ -1,3 +1,16 @@
+//
+// Created by lx on 19-8-3.
+//
+
+#ifndef OFFER_EXERCISE_WANGYI_ONLINE_CODING_H
+#define OFFER_EXERCISE_WANGYI_ONLINE_CODING_H
+
+
+
+/**
+ * 网易在线编程题１和3答案
+ */
+
 //#include<iostream>
 //#include<vector>
 //#include<algorithm>
@@ -106,3 +119,8 @@ int main(void)
     }
     return 0;
 }
+
+
+
+
+#endif //OFFER_EXERCISE_WANGYI_ONLINE_CODING_H
